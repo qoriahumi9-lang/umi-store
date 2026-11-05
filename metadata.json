@@ -1,0 +1,6 @@
+{
+  "name": "Sportwear Store POS",
+  "description": "Sistem Kasir Modern Sportwear Store untuk toko sepatu, pakaian olahraga, dan perlengkapan sport.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
